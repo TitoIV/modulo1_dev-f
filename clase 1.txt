@@ -1,0 +1,22 @@
+Local host 
+Mi dirección personal de mi pc
+
+DNS - donde se almacenan los dominios
+
+
+Body
+1. Elementos de estructura.
+2. Elementos semanticos.
+
+order list <ol>
+list item  <li>
+
+lista sin orden <ul>
+list item <li>
+
+w3schools -> documentación de html
+
+lecturas pedientes
+floats
+position
+flex

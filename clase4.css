@@ -1,0 +1,22 @@
+.contenedores{
+    border: 1px solid black;
+    display: flex;
+    background-color: beige;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+    height: 250px;
+    
+}
+.contenedores div{
+    background-color: aqua;
+    border: 1px solid black;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 200px;
+    min-height: 200px;
+    margin: 10px;
+    
+}
